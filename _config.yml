@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://umanitoba-mathbio.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: '/3MC-PIMS-ICMS-Winnipeg-2025'
 
 # Title of the Site
 title: 3MC - PIMS - IDMS - ICMS - Winnipeg 2025
@@ -59,6 +59,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-sitemap
 
 # Permalink
 permalink: "blog/:title"
