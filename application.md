@@ -13,7 +13,7 @@ Applications for supported students based in Canada closed on May 31th 2025.
 
 
 
-# Questions  
+## Questions  
 
 Please contact [Alison Skopalek](mailto:Alison.Skopalek@umanitoba.ca) with 3MC-PIMS-ICMS-WINNIPEG-2025 in the email subject.
 

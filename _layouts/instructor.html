@@ -13,7 +13,7 @@ layout: page
 
 <div class="instructor-profile" style="display: flex; align-items: flex-start; gap: 2rem;">
     <div class="profile-info" style="flex: 1;">
-        <h1>{{ page.name }}</h1>
+        <h2>{{ page.name }}</h2>
         <h2>{{ page.position }}</h2>
         <h3>{{ page.university }}</h3>
         {% if page.website %}
@@ -24,7 +24,7 @@ layout: page
     <div class="profile-photo">
         <figure class="image is-128x128">
             {% if page.photo %}
-                <img class="is-rounded" src="{{ site.url }}{{ site.baseurl }}{{ page.photo }}">
+                <img class="is-rounded" src="{{ site.url }}{{ site.baseurl }}{{ page.photo }}" alt="{{ page.name }}">
             {% endif %}
         </figure>
     </div>

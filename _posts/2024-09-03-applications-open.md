@@ -1,5 +1,5 @@
 ---
-title: Applications for school are closed 
+title: Applications Closed
 layout: post
 author_name: Stephanie Portet
 author_email: stephanie.portet@umanitoba.ca

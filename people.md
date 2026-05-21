@@ -3,7 +3,7 @@ title: People
 layout: page
 ---
 
-<h1>Instructors</h1>
+<h2>Instructors</h2>
 <div>
     <table>
     {% for person in site.people %}
@@ -13,7 +13,7 @@ layout: page
                         <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
                             <figure class="image is-64x64">
                                 {% if person.photo %}
-                                    <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}">
+                                    <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}" alt="{{ person.name }}">
                                 {% endif %}
                             </figure>
                         </div>
@@ -41,7 +41,7 @@ layout: page
     </table>
 </div>
 
-<h1>Organisation</h1>
+<h2>Organisation</h2>
 <div>
     <table>
     {% for person in site.people %}
@@ -51,7 +51,7 @@ layout: page
                         <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
                             <figure class="image is-64x64">
                     {% if person.photo %}
-                                    <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}">
+                                    <img class="is-rounded" src="{{site.url}}{{site.baseurl}}{{person.photo}}" alt="{{ person.name }}">
                     {% endif %}
                             </figure>
                         </div>

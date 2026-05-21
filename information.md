@@ -10,7 +10,7 @@ This research school is organized by the [Maud Menten Institute](https://maudmen
 
 
 
-# Location
+## Location
 
 The school will be held on the Fort Gary Campus of the [University of Manitoba](https://umanitoba.ca/). Lectures, project work, coffee breaks and meals will take place at [St John's College](https://umanitoba.ca/st-johns-college/) (SJC).
 
@@ -35,7 +35,7 @@ Breakfasts, lunches and dinners will be provided for the duration of the school 
 [St John's College](https://umanitoba.ca/st-johns-college/) ([Google Map link](https://goo.gl/maps/11WF5JJ3zfo5Qxqv5))
 
 
-# Getting around
+## Getting around
 
 The school will be held on the [Fort Garry](https://umanitoba.ca/about-um/our-campuses) (main) Campus of the [University of Manitoba](https://umanitoba.ca/), located in the south end of the city.  
 
@@ -58,7 +58,7 @@ Take Bus 15 or 20 from the airport and then connect to Blue, obtain your itinera
 
 
 
-# School structure
+## School structure
 
 The summer school aims to equip students with essential tools and methodologies for investigating complex molecular and cellular questions. Courses will cover techniques relevant to structural, molecular and cellular biology, all driven by specific biological questions.  Cancer will be used as an integrative example throughout the program.
 
@@ -98,7 +98,7 @@ Each group will present their findings in an oral presentation on Friday, June 2
 
 
 
-# [Winnipeg](https://www.meetingswinnipeg.com/conference/3mc-pims-idms-icms-summer-school)
+## [Winnipeg](https://www.meetingswinnipeg.com/conference/3mc-pims-idms-icms-summer-school)
 
 [Winnipeg](https://en.wikipedia.org/wiki/Winnipeg) is the capital of the Province of [Manitoba](https://en.wikipedia.org/wiki/Manitoba), in central Canada and is home to close to 800,000 people.
 
