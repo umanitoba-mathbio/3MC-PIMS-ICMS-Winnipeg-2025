@@ -20,7 +20,7 @@ layout: page
                     </td>
                     <td>
                         <h2>
-                            <a href="{{ site.baseurl }}/people/{{ person.name | downcase | replace: ' ', '-' }}/">
+                            <a href="{{ site.baseurl }}{{ person.url }}">
                                 {{ person.name }}
                             </a>
                         </h2>
